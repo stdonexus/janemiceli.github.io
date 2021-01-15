@@ -1,0 +1,264 @@
+# Site
+repository: janemiceli/resume
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jane Miceli
+title: Technology Leader
+email: jane@janemiceli.com  
+# email_title: Email (Email title override)
+#phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+#website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+twitter_username: janemiceli
+github_username:  janemiceli
+linkedin_username: janemiceli
+
+# Additional icon links
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/cloud_jane.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Experienced and resourceful Senior Manager of Software Engineering with proven impact and vast knowledge in DevOps. Practicing people-first leadership, excellent team building, analyzing, constructing, managing, and guiding.  Bringing out the best ideas from the best engineers by empowering them and leading with vision. Excited to tackle the challenges that come with growth and scale. Able to remove roadblocks, bureaucracy, and friction. Resilient and quickly able to respond and adapt. Understanding of theory and practice in DevOps/SRE. Obsessed with uptime, SLAs. Strives toward servant leadership. Fosters psychological safety on teams. Creates and maintains superb relationships with clients and employees. Strong demonstrated history of project management, process development, and continuous improvement. Makes time to reflect and purposefully improve. Interested in making sure clients have the right technology for their solutions.
+
+content:
+  - title: Experience
+    layout: list
+    content:
+    - layout: top-middle
+      title: Senior Manager, Software Engineering
+      icon: images/kohls.png
+      #sub_title: Kohl's
+      caption: January 2021 - present
+      link: https://www.kohls.com
+      #quote: >
+      #  Emerging Technology Consulting and Managed Services
+      #description: | # this will include new lines to allow paragraphs
+    - layout: top-middle
+      title: Principal Engineer and Lead, DevOps Now
+      icon: images/taos.png
+      #sub_title: Taos Mountain
+      caption: December 2019 - Janurary 2021
+      link: https://www.taos.com/
+      #quote: >
+      #  Emerging Technology Consulting and Managed Services
+      #description: | # this will include new lines to allow paragraphs
+      #  Demonstrated team leadership and collaborative abilities, leading three agile teams. 
+      #  
+      #  Responsibilities include: hiring, firing, employee training, feedback, mentoring for success, inventing processes and documentation, updating the P&L, ops reviews to ELT, highly functional teams and building company culture. Proud to have over 40% women. Excellent communication focused on no-surprises. Made use of the hidden unpublished job market and networked to find the company I want to work for and the people I want to hire.
+      #  
+      #  Introduced a new time tracking system that increased billable hours by close to 5%. 
+      #
+      #  Grew the DON LOB from 100K/mo to 322K/mo. Had 22% growth month over month for the last 18 months. 
+      #  
+      #  First to pass an important telecom client’s challenging security and ops test. Then devised a method so 24 other Taos employees could achieve it. DON now fully credentialed with over 25 people passing the exam requiring 95% correct answers. Shared the new method with the client to aid them in getting credentialed.
+      #  
+      #  Our MSP is in the challenging Gartner MQ for MSP for DON and TIV (Technical Interviews). Top scorer on the DevOps TIV - Top 1%. Trained to conduct this technical interview.
+      #  
+      #  Technologies: AWS, Azure, GCP, Harvest, Timeular, JIRA, JSD, Confluence, Slack, Sococo, Chef, Ruby, Terraform, Ansible, Pagerduty, Github.com, Gitlab.com, Python, Ruby, bash, Perl, Jenkins, Harness, Circle CI
+    - layout: top-middle
+      title: Cloud Enterprise Architect
+      icon: images/micron.png
+      #sub_title: Micron
+      caption: February 2019 - December 2019
+      link: https://www.micron.com/
+      #quote: >
+      #   
+      #description: | # this will include new lines to allow paragraphs
+      #  
+    - layout: top-middle
+      title: Automation and Operations Engineer
+      icon: images/hp.png
+      #sub_title: HP
+      caption: 2014 - 2018
+      link: https://www.hp.com/
+      #quote: >
+      #   
+      #description: | # this will include new lines to allow paragraphs
+      #  
+    - layout: top-middle
+      title: Software Development Engineer
+      icon: images/sensus.png
+      #sub_title: Xylem (formerly Sensus)
+      caption: 2013 - 2014
+      link: https://www.sensus.com/
+      #quote: >
+      #   
+      #description: | # this will include new lines to allow paragraphs
+      #  
+    - layout: top-middle
+      title: Software Engineer
+      #sub_title: Silverback Learning solutions
+      icon: images/silverback.png
+      caption: 2010 - 2011
+      link: https://www.sbls.com/
+      #quote: >
+      #   
+      #description: | # this will include new lines to allow paragraphs
+      #  Implemented and tested new features in Web Services using C# get or set preferences targeted for the Microsoft Windows 7/XP/CE development platforms. Duplicated options in SNMP to XML. 
+    - layout: top-middle
+      title: Quality Assurance Engineer
+      icon: images/bbcom.png
+      caption: 2008-2010
+      link: https://www.bodybuilding.com
+      #quote: >
+      #  LAMP (Ubuntu, PHP,  Apache, MySQL), Zend MVC framework, HTML, Javascript, Bugzilla, ScrumWorks, Virtual Box and MediaWiki.
+      #description: | # this will include new lines to allow paragraphs
+      #  Quality assurance specialist on a scrum team for 18 months finding, submitting, and fixing defects.  
+    - layout: top-middle
+      title: Firmware Design Engineer
+      icon: images/hp.png
+      caption: 2007 - 2008
+      link: https://www.hp.com/
+      #quote: >
+      #  C#, XML, .NET Unit Tests, C++, TCL, Quality Center, MediaWiki, Bash, VMWare, Windows CE / XP. 
+      #description: | # this will include new lines to allow paragraphs
+      #  Audited and wrote unit tests to ensure 80% automated test code coverage for all components on the team.          
+    - layout: top-middle
+      title: Software Test Engineer
+      icon: images/ra.png
+      #sub_title: Rockwell Automation
+      caption: 2002 - 2007
+      link: https://www.rockwellautomation.com/
+      #quote: >
+      #  C#, Visual Basic, XML, AutoIt, ClearCase, ClearQuest, RequisitePro, MSSQL, ColdFusion, slipstream, Windows OS Installers, and MSSDOS.
+      #description: | # this will include new lines to allow paragraphs
+      #  Designed a company-wide automated test initiative across 50 products to validate versions of installed files against a file manifest which took 14 minutes to run resulting in $228K cost savings.  
+  - title: Education
+    layout: list
+    content:
+      - layout: top-middle
+        title:  Master of Science
+        icon: images/uwmilwaukee.gif
+        sub_title: University of Wisconsin - Milwaukee
+        caption: 2004-2008
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        link: http://www.worldcat.org/oclc/288956579
+      - layout: top-middle
+        title: Bachelor of Science
+        icon: images/uwmilwaukee.gif
+        sub_title: University of Wisconsin - Milwaukee
+        link: http://www.uwm.edu
+        caption: 2000-2004
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+  - title: Certifications
+    layout: list
+    content:
+      - layout: top-middle
+        title: Advanced Certified Scrum Master
+        sub_title: Scrum Alliance
+        caption: Expected 2021
+        link: https://www.scrumalliance.org/community/profile/jmiceli
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-middle
+        title: Application Platform Operations Production Provisioning
+        sub_title: SCTE*ISBE
+        caption: 2020
+        #link: link
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-middle
+        title: SAFe Training (SA 4.0)
+        sub_title: scaledagileacademy.com
+        caption: 2016
+        #link: link
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-middle
+        title: Certified Scrum Product Owner (CSPO)
+        sub_title: Scrum Alliance
+        caption: 2016
+        link: https://www.scrumalliance.org/community/profile/jmiceli
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-middle
+        title: Certified Scrum Professional (CSP) 
+        sub_title: Scrum Alliance
+        caption: 2014
+        link: https://www.scrumalliance.org/community/profile/jmiceli
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-middle
+        title: Professional Scrum Master 1 (PSM1)
+        sub_title: Scrum.org
+        caption: 2014
+        link: https://www.scrum.org/user/176683
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+      - layout: top-middle
+        title: Certified Scrum Master (CSM)
+        sub_title: Scrum Alliance
+        caption: 2009
+        link: https://www.scrumalliance.org/community/profile/jmiceli
+        #quote: >
+        #  Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
