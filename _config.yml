@@ -49,7 +49,7 @@ content:
     layout: list
     content:
     - layout: top-middle
-      title: Senior Manager, Software Engineering
+      title: Senior Manager Site Reliability Engineering
       icon: images/kohls.png
       #sub_title: Kohl's
       caption: January 2021 - present
