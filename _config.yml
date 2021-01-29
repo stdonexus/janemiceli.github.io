@@ -172,7 +172,7 @@ content:
   - title: Certifications
     layout: list
     content:
-      - layout: top-middle
+        - layout: top-middle
         title: Certified Agile Leadership - Essentials (CAL-E)
         sub_title: Scrum Alliance
         caption: 2021
