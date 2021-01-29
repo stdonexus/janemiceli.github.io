@@ -150,101 +150,101 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-middle
-        title:  Master of Science
-        icon: images/uwmilwaukee.gif
-        sub_title: University of Wisconsin - Milwaukee
-        caption: 2004-2008
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        link: http://www.worldcat.org/oclc/288956579
-      - layout: top-middle
-        title: Bachelor of Science
-        icon: images/uwmilwaukee.gif
-        sub_title: University of Wisconsin - Milwaukee
-        link: http://www.uwm.edu
-        caption: 2000-2004
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
+    - layout: top-middle
+      title:  Master of Science
+      icon: images/uwmilwaukee.gif
+      sub_title: University of Wisconsin - Milwaukee
+      caption: 2004-2008
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      link: http://www.worldcat.org/oclc/288956579
+    - layout: top-middle
+      title: Bachelor of Science
+      icon: images/uwmilwaukee.gif
+      sub_title: University of Wisconsin - Milwaukee
+      link: http://www.uwm.edu
+      caption: 2000-2004
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
   - title: Certifications
     layout: list
     content:
-      - layout: top-middle
-        title: Certified Agile Leadership - Essentials (CAL-E)
-        sub_title: Scrum Alliance
-        caption: 2021
-        link: https://www.scrumalliance.org/community/profile/jmiceli      
-      - layout: top-middle
-        title: Certified Agile Leadership - Teams (CAL-T)
-        sub_title: Scrum Alliance
-        caption: 2021
-        link: https://www.scrumalliance.org/community/profile/jmiceli      
-      - layout: top-middle
-        title: Advanced Certified Scrum Master (ACSM)
-        sub_title: Scrum Alliance
-        caption: 2021
-        link: https://www.scrumalliance.org/community/profile/jmiceli
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-      - layout: top-middle
-        title: Application Platform Operations Production Provisioning
-        sub_title: SCTE*ISBE
-        caption: 2020
-        #link: link
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-      - layout: top-middle
-        title: SAFe Training (SA 4.0)
-        sub_title: scaledagileacademy.com
-        caption: 2016
-        #link: link
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-      - layout: top-middle
-        title: Certified Scrum Product Owner (CSPO)
-        sub_title: Scrum Alliance
-        caption: 2016
-        link: https://www.scrumalliance.org/community/profile/jmiceli
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-      - layout: top-middle
-        title: Certified Scrum Professional (CSP) 
-        sub_title: Scrum Alliance
-        caption: 2014
-        link: https://www.scrumalliance.org/community/profile/jmiceli
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-      - layout: top-middle
-        title: Professional Scrum Master 1 (PSM1)
-        sub_title: Scrum.org
-        caption: 2014
-        link: https://www.scrum.org/user/176683
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-      - layout: top-middle
-        title: Certified Scrum Master (CSM)
-        sub_title: Scrum Alliance
-        caption: 2009
-        link: https://www.scrumalliance.org/community/profile/jmiceli
-        #quote: >
-        #  Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
+    - layout: top-middle
+      title: Certified Agile Leadership - Essentials (CAL-E)
+      sub_title: Scrum Alliance
+      caption: 2021
+      link: https://www.scrumalliance.org/community/profile/jmiceli      
+    - layout: top-middle
+      title: Certified Agile Leadership - Teams (CAL-T)
+      sub_title: Scrum Alliance
+      caption: 2021
+      link: https://www.scrumalliance.org/community/profile/jmiceli      
+    - layout: top-middle
+      title: Advanced Certified Scrum Master (ACSM)
+      sub_title: Scrum Alliance
+      caption: 2021
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
+    - layout: top-middle
+      title: Application Platform Operations Production Provisioning
+      sub_title: SCTE*ISBE
+      caption: 2020
+      #link: link
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
+    - layout: top-middle
+      title: SAFe Training (SA 4.0)
+      sub_title: scaledagileacademy.com
+      caption: 2016
+      #link: link
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
+    - layout: top-middle
+      title: Certified Scrum Product Owner (CSPO)
+      sub_title: Scrum Alliance
+      caption: 2016
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
+    - layout: top-middle
+      title: Certified Scrum Professional (CSP) 
+      sub_title: Scrum Alliance
+      caption: 2014
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
+    - layout: top-middle
+      title: Professional Scrum Master 1 (PSM1)
+      sub_title: Scrum.org
+      caption: 2014
+      link: https://www.scrum.org/user/176683
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
+    - layout: top-middle
+      title: Certified Scrum Master (CSM)
+      sub_title: Scrum Alliance
+      caption: 2009
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+      #quote: >
+      #  Short institution or course description (optional)
+      #description: | # this will include new lines to allow paragraphs
+      #  Description of qualification
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
