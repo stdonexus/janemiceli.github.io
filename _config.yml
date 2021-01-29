@@ -49,7 +49,7 @@ content:
     layout: list
     content:
     - layout: top-middle
-      title: Senior Manager, Software Engineering
+      title: Senior Manager Site Reliability Engineering
       icon: images/kohls.png
       #sub_title: Kohl's
       caption: January 2021 - present
@@ -62,7 +62,7 @@ content:
       icon: images/taos.png
       #sub_title: Taos Mountain
       caption: December 2019 - Janurary 2021
-      link: https://www.taos.com/
+      link: https://www.taos.com
       #quote: >
       #  Emerging Technology Consulting and Managed Services
       #description: | # this will include new lines to allow paragraphs
@@ -84,7 +84,7 @@ content:
       icon: images/micron.png
       #sub_title: Micron
       caption: February 2019 - December 2019
-      link: https://www.micron.com/
+      link: https://www.micron.com
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
@@ -94,7 +94,7 @@ content:
       icon: images/hp.png
       #sub_title: HP
       caption: 2014 - 2018
-      link: https://www.hp.com/
+      link: https://www.hp.com
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
@@ -104,7 +104,7 @@ content:
       icon: images/sensus.png
       #sub_title: Xylem (formerly Sensus)
       caption: 2013 - 2014
-      link: https://www.sensus.com/
+      link: https://www.sensus.com
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
@@ -114,7 +114,7 @@ content:
       #sub_title: Silverback Learning solutions
       icon: images/silverback.png
       caption: 2010 - 2011
-      link: https://www.sbls.com/
+      link: https://www.sbls.com
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
@@ -132,7 +132,7 @@ content:
       title: Firmware Design Engineer
       icon: images/hp.png
       caption: 2007 - 2008
-      link: https://www.hp.com/
+      link: https://www.hp.com
       #quote: >
       #  C#, XML, .NET Unit Tests, C++, TCL, Quality Center, MediaWiki, Bash, VMWare, Windows CE / XP. 
       #description: | # this will include new lines to allow paragraphs
@@ -142,7 +142,7 @@ content:
       icon: images/ra.png
       #sub_title: Rockwell Automation
       caption: 2002 - 2007
-      link: https://www.rockwellautomation.com/
+      link: https://www.rockwellautomation.com
       #quote: >
       #  C#, Visual Basic, XML, AutoIt, ClearCase, ClearQuest, RequisitePro, MSSQL, ColdFusion, slipstream, Windows OS Installers, and MSSDOS.
       #description: | # this will include new lines to allow paragraphs
@@ -173,9 +173,19 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: Certified Agile Leadership - Essentials (CAL-E)
+        sub_title: Scrum Alliance
+        caption: 2021
+        link: https://www.scrumalliance.org/community/profile/jmiceli      
+        - layout: top-middle
+        title: Certified Agile Leadership - Teams (CAL-T)
+        sub_title: Scrum Alliance
+        caption: 2021
+        link: https://www.scrumalliance.org/community/profile/jmiceli      
+        - layout: top-middle
         title: Advanced Certified Scrum Master (ACSM)
         sub_title: Scrum Alliance
-        caption: January 2021
+        caption: 2021
         link: https://www.scrumalliance.org/community/profile/jmiceli
         #quote: >
         #  Short institution or course description (optional)
