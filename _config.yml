@@ -151,7 +151,7 @@ content:
     layout: list
     content:
     - layout: top-middle
-      title:  Master of Science
+      title: Master of Science
       icon: images/uwmilwaukee.gif
       sub_title: University of Wisconsin - Milwaukee
       caption: 2004-2008
@@ -176,12 +176,12 @@ content:
       title: Certified Agile Leadership - Essentials (CAL-E)
       sub_title: Scrum Alliance
       caption: 2021
-      link: https://www.scrumalliance.org/community/profile/jmiceli      
+      link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Certified Agile Leadership - Teams (CAL-T)
       sub_title: Scrum Alliance
       caption: 2021
-      link: https://www.scrumalliance.org/community/profile/jmiceli      
+      link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Advanced Certified Scrum Master (ACSM)
       sub_title: Scrum Alliance
