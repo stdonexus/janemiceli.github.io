@@ -49,7 +49,7 @@ content:
     layout: list
     content:
     - layout: top-middle
-      title: Senior Manager Site Reliability Engineering
+      title: Senior Manager, Site Reliability Engineering
       icon: images/kohls.png
       #sub_title: Kohl's
       caption: January 2021 - present
@@ -172,6 +172,11 @@ content:
   - title: Certifications
     layout: list
     content:
+    - layout: top-middle
+      title: Site Reliability Engineering- Measuring and Managing Reliability 
+      sub_title: Coursera
+      caption: 2021
+      link: https://coursera.org/share/424f6dd1f7881ab1f684f6d7a5707273
     - layout: top-middle
       title: Certified Agile Leadership - Essentials (CAL-E)
       sub_title: Scrum Alliance
