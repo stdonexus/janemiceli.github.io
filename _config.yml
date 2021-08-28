@@ -254,6 +254,11 @@ content:
     layout: list
     content:
     - layout: top-middle
+      title: DevOps Days Seattle 
+      sub_title: Battle Wounds from a Cloud SRE
+      caption: 2019
+      link: https://www.youtube.com/watch?v=xrtdonI2v5Ii
+    - layout: top-middle
       title: DefCon 
       sub_title: Security Battle Wounds from a Cloud SRE
       caption: 2019
