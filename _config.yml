@@ -1,5 +1,5 @@
 # Site
-repository: janemiceli/resume
+repository: janemiceli.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jane Miceli
 title: Technology Leader
-email: jane@janemiceli.com  
+email: jane+github@janemiceli.com  
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -250,6 +250,14 @@ content:
       #  Short institution or course description (optional)
       #description: | # this will include new lines to allow paragraphs
       #  Description of qualification
+  - title: Public Speaking
+    layout: list
+    content:
+    - layout: top-middle
+      title: DefCon 
+      sub_title: Security Battle Wounds from a Cloud SRE
+      caption: 2019
+      link: https://2019.cloud-village.org/#talks?janemiceli
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
