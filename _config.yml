@@ -263,6 +263,11 @@ content:
       sub_title: Security Battle Wounds from a Cloud SRE
       caption: 2019
       link: https://2019.cloud-village.org/#talks?janemiceli
+    - layout: top-middle
+      title: DevOps Days Boise 
+      sub_title: Battle Wounds from a Cloud SRE
+      caption: 2018
+      link: https://devopsdaysboise.com/events2018.html
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
