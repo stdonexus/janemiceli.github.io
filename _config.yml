@@ -265,9 +265,23 @@ content:
       link: https://2019.cloud-village.org/#talks?janemiceli
     - layout: top-middle
       title: DevOps Days Boise 
+      sub_title: Blamless Post Mortems with teeth (with Dave Harrison)
+      caption: 2019
+      link: https://devopsdaysboise.com/events2019.html
+    - layout: top-middle
+      title: DevOps Days Boise 
       sub_title: Battle Wounds from a Cloud SRE
       caption: 2018
       link: https://devopsdaysboise.com/events2018.html
+  - title: Articles
+    layout: list
+    content:
+    - layout: top-middle
+      title: Idaho Statesman 
+      sub_title: Business Insider
+      caption: 2017
+      link: https://issuu.com/idahostatesman/docs/0215_business_insider
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
