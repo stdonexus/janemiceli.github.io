@@ -281,6 +281,13 @@ content:
       sub_title: Business Insider
       caption: 2017
       link: https://issuu.com/idahostatesman/docs/0215_business_insider
+  - title: Boards
+    layout: list
+    content:
+    - layout: top-middle
+      title: Boise Code Camps 
+      sub_title: Board Member
+      link: https://boisecodecamp.org
 
 # Footer
 footer_show_references: false
