@@ -281,13 +281,34 @@ content:
       sub_title: Business Insider
       caption: 2017
       link: https://issuu.com/idahostatesman/docs/0215_business_insider
+  - title: Pod Casts
+    layout: list
+    content:
+    - layout: top-middle
+      title: Achieving DevOps 
+      sub_title: Blamless Post Mortems with teeth (with Dave Harrison)
+      caption: 2015
+      link: https://anchor.fm/dave-harrison5/episodes/Blameless-Postmortems-with-Jane-Miceli-e4b8r9
+    - layout: top-middle
+      title: Voice of America 
+      sub_title: Powerful Conversations
+      caption: 2015
+      link: https://www.voiceamerica.com/guest/26384/jane-miceli#guest-index
   - title: Boards
     layout: list
     content:
     - layout: top-middle
-      title: Boise Code Camps 
+      title: Boise Code Camp 
       sub_title: Board Member
       link: https://boisecodecamp.org
+    - layout: top-middle
+      title: DevOps Days Boise
+      sub_title: Board Member
+      link: https://devopsdays.org
+    - layout: top-middle
+      title: Stevens Henager College- Boise
+      sub_title: Professional Advisory Committee
+      link: https://www.stevenshenager.edu/
 
 # Footer
 footer_show_references: false
