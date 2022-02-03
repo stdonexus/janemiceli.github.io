@@ -173,6 +173,16 @@ content:
     layout: list
     content:
     - layout: top-middle
+      title: Certified Agile Leader
+      sub_title: Scrum Alliance
+      caption: Feb 2, 2022
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+    - layout: top-middle
+      title: Scrum Foundations Educator
+      sub_title: Scrum Alliance
+      caption: Fe 2, 2022
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+    - layout: top-middle
       title: Site Reliability Engineering - Measuring and Managing Reliability 
       sub_title: Coursera
       caption: 2021
