@@ -154,7 +154,6 @@ content:
       title: Master of Science
       icon: images/uwmilwaukee.gif
       sub_title: University of Wisconsin - Milwaukee
-      caption: 2004-2008
       #quote: >
       #  Short institution or course description (optional)
       #description: | # this will include new lines to allow paragraphs
@@ -164,7 +163,6 @@ content:
       icon: images/uwmilwaukee.gif
       sub_title: University of Wisconsin - Milwaukee
       link: http://www.uwm.edu
-      caption: 2000-2004
       #quote: >
       #  Short institution or course description (optional)
       #description: | # this will include new lines to allow paragraphs
