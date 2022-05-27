@@ -114,7 +114,7 @@ content:
       sub_title: EdPower (formerly Silverback Learning Solutions)
       icon: images/silverback.png
       caption: 2010 - 2011
-      link: https://www.myedpower.com/
+      link: https://www.myedpower.com
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
@@ -285,7 +285,7 @@ content:
       link: https://2019.cloud-village.org/#talks?janemiceli
     - layout: top-middle
       title: DevOps Days Boise 
-      sub_title: Blamless Post Mortems with teeth (with Dave Harrison)
+      sub_title: Blameless Post Mortems with teeth (with Dave Harrison)
       caption: 2019
       link: https://devopsdaysboise.com/events2019.html
     - layout: top-middle
