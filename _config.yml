@@ -111,10 +111,10 @@ content:
       #  
     - layout: top-middle
       title: Software Engineer
-      #sub_title: Silverback Learning solutions
+      #sub_title: Edpower (formerly Silverback Learning solutions)
       icon: images/silverback.png
       caption: 2010 - 2011
-      link: https://www.sbls.com
+      link: https://www.myedpower.com/
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
