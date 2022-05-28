@@ -90,10 +90,10 @@ content:
       #description: | # this will include new lines to allow paragraphs
       #  
     - layout: top-middle
-      title: Automation and Operations Engineer
+      title: Site Reliability Engineer
       icon: images/hp.png
       sub_title: HP Inc (formerly Hewlett-Packard)
-      caption: 2014 - 2018
+      caption: November 2014 - February 2018
       link: https://www.hp.com
       #quote: >
       #   
@@ -103,7 +103,7 @@ content:
       title: Software Development Engineer
       icon: images/sensus.png
       sub_title: Xylem (formerly Sensus)
-      caption: 2013 - 2014
+      caption: September 2013 - November 2014
       link: https://www.sensus.com
       #quote: >
       #   
@@ -113,7 +113,17 @@ content:
       title: Software Engineer
       sub_title: EdPower (formerly Silverback Learning Solutions)
       icon: images/silverback.png
-      caption: 2010 - 2011
+      caption: Janurary 2012 - September 2013
+      link: https://www.myedpower.com
+      #quote: >
+      #   
+      #description: | # this will include new lines to allow paragraphs
+      #  Implemented and tested new features in Web Services using C# get or set preferences targeted for the Microsoft Windows 7/XP/CE development platforms. Duplicated options in SNMP to XML. 
+    - layout: top-middle
+      title: Software Engineer II/III
+      sub_title: Adecco (assigned to Hewlett-Packard)
+      icon: images/hp.png
+      caption: MArch 2010 - December 2011
       link: https://www.myedpower.com
       #quote: >
       #   
@@ -123,7 +133,7 @@ content:
       title: Quality Assurance Engineer
       sub_title: Bodybuilding.com
       icon: images/bbcom.png
-      caption: 2008-2010
+      caption: October 2008 - March 2010
       link: https://www.bodybuilding.com
       #quote: >
       #  LAMP (Ubuntu, PHP,  Apache, MySQL), Zend MVC framework, HTML, Javascript, Bugzilla, ScrumWorks, Virtual Box and MediaWiki.
@@ -133,7 +143,7 @@ content:
       title: Firmware Design Engineer
       sub_title: Hewlett-Packard
       icon: images/hp.png
-      caption: 2007 - 2008
+      caption: June 2007 - October 2008
       link: https://www.hp.com
       #quote: >
       #  C#, XML, .NET Unit Tests, C++, TCL, Quality Center, MediaWiki, Bash, VMWare, Windows CE / XP. 
@@ -144,7 +154,7 @@ content:
       sub_title: Rockwell Automation (formerly Rockwell Software, Icom)
       icon: images/ra.png
       #sub_title: Rockwell Automation
-      caption: 2002 - 2007
+      caption: March 2002 - June 2007
       link: https://www.rockwellautomation.com
       #quote: >
       #  C#, Visual Basic, XML, AutoIt, ClearCase, ClearQuest, RequisitePro, MSSQL, ColdFusion, slipstream, Windows OS Installers, and MSSDOS.
