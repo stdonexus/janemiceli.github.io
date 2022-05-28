@@ -262,7 +262,7 @@ content:
       #description: | # this will include new lines to allow paragraphs
       #  Description of qualification
     - layout: top-middle
-      title: Systm Administrator/Network Mgr Security CRS
+      title: System Administrator/Network Manager Security CRS
       sub_title: US ARRTC
       caption: 2004
       link: http://urls.miceli.me/cybercert
