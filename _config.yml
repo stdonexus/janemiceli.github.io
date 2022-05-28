@@ -272,10 +272,10 @@ content:
       #description: | # this will include new lines to allow paragraphs
       #  Description of qualification
     - layout: top-middle
-      title: System Administrator/Network Manager Security CRS
+      title: System Administrator/Network Manager Security Course
       sub_title: US ARRTC
       caption: 2004
-      link: http://urls.miceli.me/cybercert
+      link: https://docs.google.com/file/d/0B1XtxZ7uWeT3YWEyYmNlNDgtNTZkNy00NzMwLTg2ZDUtZTllNzgzODcwYmNj/edit?usp=drive_web&authkey=CM6215gB&hl=en
       #quote: >
       #  Short institution or course description (optional)
       #description: | # this will include new lines to allow paragraphs
